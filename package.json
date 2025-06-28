@@ -1,0 +1,4 @@
+{
+    "_comentario":"// S15S16ProjectBreak2 | Esctructura",
+    "_comentario2":"package.json: Archivo que contendrá las dependencias del proyecto. Crearemos un script para iniciar el servidor con node ("start": "node --watch index.js") o si lo preferís con nodemon ("dev": "nodemon index.js"). Si elegís esta última opción tendréis que instalar la dependencia como dependencia de desarrollo."
+}
